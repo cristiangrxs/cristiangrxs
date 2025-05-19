@@ -6,6 +6,9 @@
 <a href="https://cristiangrosu.de">
   <img height=200 align="center" src="https://github-stats-two-woad.vercel.app/api/top-langs/?username=cristiangrxs&theme=dracula" />
 </a>
+
+![Cristian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cristiangrxs&theme=dracula)
+
 <!--
 **cristiangrx/cristiangrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
