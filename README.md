@@ -9,7 +9,7 @@
 
 <h2 align="center">Contribution Graph</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cristiangrxs&theme=dracula" border-radius="15">
+    <img src="https://github-activity-graph-liard.vercel.app/graph?username=cristiangrxs&theme=dracula" border-radius="15">
 </div>
 <!--
 **cristiangrx/cristiangrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
