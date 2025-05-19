@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Aurel-Cristian Grosu
 
-[Cristian's GitHub stats](https://github-stats-two-woad.vercel.app/api?username=cristiangrxs&show_icons=true&theme=dracula)
+![Cristian's GitHub stats](https://github-stats-two-woad.vercel.app/api?username=cristiangrxs&show_icons=true&theme=dracula)
 
 <!--
 **cristiangrx/cristiangrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
