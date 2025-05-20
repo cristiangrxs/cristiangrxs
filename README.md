@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Aurel-Cristian Grosu
 
 <a href="https://cristiangrosu.de">
-  <img height=200 align="center" src="https://github-stats-two-woad.vercel.app/api?username=cristiangrxs&theme=dracula" />
+  <img height=200 align="center" src="https://github-stats-two-woad.vercel.app/api?username=cristiangrxs&theme=dracula&show_icons=true" />
 </a>
 <a href="https://cristiangrosu.de">
   <img height=200 align="center" src="https://github-stats-two-woad.vercel.app/api/top-langs/?username=cristiangrxs&theme=dracula" />
