@@ -1,5 +1,6 @@
 ## Hi 👋, I'm Aurel-Cristian Grosu
 
+<!--
 <a href="https://cristiangrosu.de">
   <img height=200 align="center" src="https://github-stats-v2.vercel.app/api?username=cristiangrxs&theme=dracula&show_icons=true" />
 </a>
@@ -11,6 +12,7 @@
 <div align="center">
     <img src="https://github-activity-graph-liard.vercel.app/graph?username=cristiangrxs&theme=dracula" border-radius="15">
 </div>
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cristiangrxs/cristiangrxs/blob/output/github-contribution-grid-snake-dark.svg" />
