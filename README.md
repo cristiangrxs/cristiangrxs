@@ -1,33 +1,29 @@
-## Hi 👋, I'm Aurel-Cristian Grosu
+<img width="100%" alt="Aurel-Cristian Grosu, Fullstack aus Langenfeld" src="assets/header.svg">
 
-<a href="https://cristiangrosu.de">
-  <img height=200 align="center" src="https://github-stats-v2.vercel.app/api?username=cristiangrxs&theme=dracula&show_icons=true" />
-</a>
-<a href="https://cristiangrosu.de">
-  <img height=200 align="center" src="https://github-stats-v2.vercel.app/api/top-langs/?username=cristiangrxs&theme=dracula" />
-</a>
+Ich baue Sachen, die man wirklich benutzt. Tempo, sauberer Code, Interfaces, die nicht im Weg stehen. Von der Skizze bis zum Livegang, aus Langenfeld.
 
-<h2 align="center">Contribution Graph</h2>
-<div align="center">
-    <img src="https://github-activity-graph-liard.vercel.app/graph?username=cristiangrxs&theme=dracula" border-radius="15">
-</div>
+### Woran ich schreibe
+
+**[Synaplan](https://github.com/metadist/synaplan)** bei [metadist](https://github.com/metadist)  
+AI-Plattform zum Selbsthosten. Backend, Apps, Plugins. [synaplan.com](https://www.synaplan.com/)
+
+**[OnlyWhisper](https://github.com/cristiangrxs/onlywhisper)**  
+Diktat in der Mac-Menüleiste. Audio bleibt auf dem Gerät. [onlywhisper.dev](https://onlywhisper.dev)
+
+**[Mein Langenfeld](https://mein-langenfeld.de)**  
+Stadtportal für Langenfeld, das ich schreibe und baue.
+
+**[Squad Allstars Germany](https://github.com/Squad-Allstars-Germany)**  
+Community um Squad. Server, Bots, Stats, ein paar öffentliche Plugins. [sq-allstars.de](https://sq-allstars.de)
+
+UptimeSentry. Infrastruktur, seit 2025.
+
+PHP · TypeScript · JavaScript · Swift · Laravel · Next.js · Vue · Docker
+
+[cristiangrosu.de](https://cristiangrosu.de) · [mail@cristiangrosu.de](mailto:mail@cristiangrosu.de) · [LinkedIn](https://www.linkedin.com/in/aurel-cristian-grosu/) · [X](https://x.com/cristiangrxs)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cristiangrxs/cristiangrxs/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/cristiangrxs/cristiangrxs/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristiangrxs/cristiangrxs/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cristiangrxs/cristiangrxs/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake, die über den Contribution-Graph läuft" src="https://raw.githubusercontent.com/cristiangrxs/cristiangrxs/output/github-contribution-grid-snake.svg" />
 </picture>
-<!--
-**cristiangrx/cristiangrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
